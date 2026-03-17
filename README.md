@@ -5,7 +5,7 @@
 - Laptop > Tailsacle network > Raspberry Pi > Host server
 
 ## Tech Used
-- Raspberry Pi zero w 2 (Low power and alsways on)
+- Raspberry Pi zero w 2 (Low power and always on)
 - Tailscale (Used to work around my ISPs CGNAT)
 - SSH (WOL had to come from inside my network so SSH made sense)
 - Etherwake (Preinstalled WOL app in Raspbian)
