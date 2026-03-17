@@ -1,2 +1,2 @@
-# raspberry-pi-jumpbox-tailscale-wol
-Build a Raspberry Pi based project to allow me to wol my host server
+# Raspberry Pi jumpbox using tailscale and etherwake
+A RPi build that allows secure external SSH for the purpose of WOL my host server
